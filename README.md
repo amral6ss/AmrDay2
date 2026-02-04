@@ -12,6 +12,15 @@ git push origin --delete test
 
 
 
-# ThisTo push all tags
+# push all tags
 
 git push origin --tags
+
+
+
+
+# Delete tag Locally
+git tag -d v1.0
+
+# Delete tag Remotely
+git push origin --delete tag v1.0
