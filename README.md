@@ -1,10 +1,10 @@
 # AmrDay2
 
- locally
+# locally
 git branch -d dev  
-git branch -d test  # delete test branch locally
+git branch -d test  
 
 
- remotely
+# remotely
 git push origin --delete dev
 git push origin --delete test
