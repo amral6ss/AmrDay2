@@ -9,3 +9,9 @@ git branch -d test
 git push origin --delete dev
 
 git push origin --delete test
+
+
+
+#ThisTo push all tags
+
+git push origin --tags
