@@ -12,6 +12,6 @@ git push origin --delete test
 
 
 
-#ThisTo push all tags
+# ThisTo push all tags
 
 git push origin --tags
