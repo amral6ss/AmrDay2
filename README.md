@@ -1,4 +1,4 @@
-![Logo](images/image.png)
+![Logo](image.png)
 
 
 # AmrDay2
