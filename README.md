@@ -7,4 +7,5 @@ git branch -d test
 
 # remotely
 git push origin --delete dev
+
 git push origin --delete test
